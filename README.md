@@ -8,7 +8,6 @@ MonkAI is a web application that transforms your text prompts into original musi
 <h3>✨ Features</h3>
 1.🎼 Text-to-Music Generation – Describe your idea in words, and MonkAI will compose it into audio using AI.
 
-
 2.📚 Royalty-Free Music Library – Access a collection of pre-generated, high-quality, copyright-free tracks for commercial or personal use.
 
 3.⚡ Fast & Scalable Backend – Powered by FastAPI and Python for quick processing and API integration.
