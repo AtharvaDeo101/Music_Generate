@@ -30,75 +30,73 @@ MonkAI is a web application that transforms your text prompts into original musi
 
 <h3>📂 Project Structure</h3>
 
-Directory structure:
-└── atharvadeo101-music_generate/
-    ├── README.md
-    ├── requirements.txt
-    ├── backend/
-    │   └── src/
-    │       ├── app.py
-    │       ├── music_generator.py
-    │       ├── test_model.py
-    │       └── utils/
-    │           ├── save_medium.py
-    │           ├── save_small.py
-    │           └── try.py
-    └── frontend/
-        ├── README.md
-        ├── middleware.ts
-        ├── next.config.js
-        ├── package.json
-        ├── postcss.config.js
-        ├── tailwind.config.js
-        ├── tsconfig.json
-        ├── .eslintrc.json
-        ├── app/
-        │   ├── globals.css
-        │   ├── layout.tsx
-        │   ├── page.tsx
-        │   ├── api/
-        │   │   └── radios/
-        │   │       └── route.ts
-        │   ├── dashboard/
-        │   │   └── page.tsx
-        │   ├── generate/
-        │   │   └── page.tsx
-        │   ├── login/
-        │   │   └── page.tsx
-        │   ├── signup/
-        │   │   └── page.tsx
-        │   └── tracks/
-        │       ├── client.tsx
-        │       ├── loading.tsx
-        │       └── page.tsx
-        ├── components/
-        │   ├── dashboard-slideshow.tsx
-        │   ├── music-visualizer.tsx
-        │   ├── ProtectedRoute.tsx
-        │   ├── kokonutui/
-        │   │   └── hero-geometric.tsx
-        │   ├── layout/
-        │   │   └── header.tsx
-        │   └── ui/
-        │       ├── badge.tsx
-        │       ├── button.tsx
-        │       ├── card.tsx
-        │       ├── input.tsx
-        │       ├── label.tsx
-        │       ├── separator.tsx
-        │       ├── slider.tsx
-        │       └── textarea.tsx
-        ├── contexts/
-        │   └── AuthContext.tsx
-        ├── hooks/
-        │   ├── use-mobile.tsx
-        │   └── useAuth.ts
-        ├── lib/
-        │   ├── auth.ts
-        │   ├── firebase.ts
-        │   └── utils.ts
-        └── pages/
-            └── api/
-                └── tracks.ts
+├── README.md<br>
+├── requirements.txt<br>
+├── backend/<br>
+│ └── src/<br>
+│ ├── app.py<br>
+│ ├── music_generator.py<br>
+│ ├── test_model.py<br>
+│ └── utils/<br>
+│ ├── save_medium.py<br>
+│ ├── save_small.py<br>
+│ └── try.py<br>
+└── frontend/<br>
+├── README.md<br>
+├── middleware.ts<br>
+├── next.config.js<br>
+├── package.json<br>
+├── postcss.config.js<br>
+├── tailwind.config.js<br>
+├── tsconfig.json<br>
+├── .eslintrc.json<br>
+├── app/<br>
+│ ├── globals.css<br>
+│ ├── layout.tsx<br>
+│ ├── page.tsx<br>
+│ ├── api/<br>
+│ │ └── radios/<br>
+│ │ └── route.ts<br>
+│ ├── dashboard/<br>
+│ │ └── page.tsx<br>
+│ ├── generate/<br>
+│ │ └── page.tsx<br>
+│ ├── login/<br>
+│ │ └── page.tsx<br>
+│ ├── signup/<br>
+│ │ └── page.tsx<br>
+│ └── tracks/<br>
+│ ├── client.tsx<br>
+│ ├── loading.tsx<br>
+│ └── page.tsx<br>
+├── components/<br>
+│ ├── dashboard-slideshow.tsx<br>
+│ ├── music-visualizer.tsx<br>
+│ ├── ProtectedRoute.tsx<br>
+│ ├── kokonutui/<br>
+│ │ └── hero-geometric.tsx<br>
+│ ├── layout/<br>
+│ │ └── header.tsx<br>
+│ └── ui/<br>
+│ ├── badge.tsx<br>
+│ ├── button.tsx<br>
+│ ├── card.tsx<br>
+│ ├── input.tsx<br>
+│ ├── label.tsx<br>
+│ ├── separator.tsx<br>
+│ ├── slider.tsx<br>
+│ └── textarea.tsx<br>
+├── contexts/<br>
+│ └── AuthContext.tsx<br>
+├── hooks/<br>
+│ ├── use-mobile.tsx<br>
+│ └── useAuth.ts<br>
+├── lib/<br>
+│ ├── auth.ts<br>
+│ ├── firebase.ts<br>
+│ └── utils.ts<br>
+└── pages/<br>
+└── api/<br>
+└── tracks.ts<br>
 
 <hr>
