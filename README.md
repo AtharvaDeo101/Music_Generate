@@ -28,7 +28,7 @@ MonkAI is a web application that transforms your text prompts into original musi
 
 <hr>
 
-<h3>📂 Project Structure</h3>
+<h3>📂 Project Structure</h3><br>
 
 ├── README.md<br>
 ├── requirements.txt<br>
